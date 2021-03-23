@@ -129,7 +129,7 @@ Com o git instalado em seu computador, execute o comando:
 [a11]:https://github.com/takeofriedrich/monitoriapoo#aula-pr%C3%A1tica-11-dao-e-persist%C3%AAncia-em-banco-de-dados---ir-para-o-projeto
 [ap11]:https://github.com/takeofriedrich/monitoriapoo/tree/master/Aulas%20Práticas/Aula%20Prática%2011%20-%20Persistência%20em%20Banco%20de%20Dados%20e%20DAO
 [a12]:https://github.com/takeofriedrich/monitoriapoo#aula-pr%C3%A1tica-12-interface-gr%C3%A1fica-i---ir-para-o-projeto
-[ap12]:https://github.com/takeofriedrich/monitoriapoo/tree/master/Aulas%20Práticas/Aula%20Prática%2012%20-%20Interface%20Gráfica%20em%20Java%20I
+[ap12]:https://github.com/takeofriedrich/monitoriapoo/tree/master/Aulas%20Práticas/Aula%20Prática%2012%20-%20Interface%20Gráfica%20I
 [a122]:https://github.com/takeofriedrich/monitoriapoo#aula-pr%C3%A1tica-12-interface-gr%C3%A1fica-ii---ir-para-o-projeto
 [ap122]:https://github.com/takeofriedrich/monitoriapoo/tree/master/Aulas%20Práticas/Aula%20Prática%2012%20-%20Interface%20Gráfica%20em%20Java%20II
 [r1]:https://github.com/takeofriedrich/monitoriapoo#diagramas-de-classes-uml-em-java---ir-para-o-pdf
